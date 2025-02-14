@@ -1,0 +1,17 @@
+{
+  "name": "ps-ci-02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "jest app.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "jtest": "^0.0.1",
+    "supertest": "^7.0.0"
+  }
+}
